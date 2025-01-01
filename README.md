@@ -80,7 +80,7 @@ npm install express socket.io cors
 In the `App.js` file of the React application, update the `socket` connection URL:
 
 
-const socket = io("http://<your-server-ip>:5000");
+const socket = io("http:// <your-server-ip> :5000");
 
 
 Replace `<your-server-ip>` with the IP address or domain name of your server.
