@@ -33,18 +33,7 @@ npm install express socket.io cors
 ## Folder Structure
 
 
-project-folder
-├── client
-│   ├── public
-│   ├── src
-│   │   ├── App.css
-│   │   ├── App.js
-│   │   └── index.js
-│   └── package.json
-├── server
-│   ├── server.js
-│   └── package.json
-└── README.md
+
 
 
 ---
